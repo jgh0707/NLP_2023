@@ -22,4 +22,6 @@
 | 1 | Code Cells🍓 | [variable, assign](https://github.com/jgh0707/NLP_2023/blob/main/1_CodeCells_Basic.ipynb)|
 | 2 | fivetypes🍓 | [Number, String, List, Tuple, Dictionary](https://github.com/jgh0707/NLP_2023/blob/main/2_FiveTypesofData.ipynb)|
 | 3 |  Indexing of Sequence Data🍓 | [Sequence Data](https://github.com/jgh0707/NLP_2023/blob/main/3_Indexing_Slicing.ipynb)|
+| 4 |  Some useful tips for statements🍓 | [if](https://github.com/jgh0707/NLP_2023/blob/main/4_1_IfStatement.ipynb),[for](https://github.com/jgh0707/NLP_2023/blob/main/4_2_ForStatement.ipynb),[try~](https://github.com/jgh0707/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb),[while](https://github.com/jgh0707/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb)|
+
 
