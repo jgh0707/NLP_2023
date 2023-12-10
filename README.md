@@ -26,3 +26,9 @@
 | 5 |  regular expression🍓 | [Regular expressions](https://github.com/jgh0707/NLP_2023/blob/main/5_RegularExpression.ipynb)|
 | 6 | function🍓 | [function](https://github.com/jgh0707/NLP_2023/blob/main/6_DefiningFunctions.ipynb) |
 | 7 | class🍓 | [class](https://github.com/jgh0707/NLP_2023/blob/main/7_Class_Method_Member_Object.ipynb) |
+| 8 | file read🍓 | [readtextfile](https://github.com/jgh0707/NLP_2023/blob/main/8_ReadTxtFilesImportingfrom_html.ipynb) |
+| 9 | install🍓 | [installpackages](https://github.com/jgh0707/NLP_2023/blob/main/9_1_InstallPackages_ImportModlues_CallFunctions_chatGPT.ipynb) |
+| 10 | tokenize🍓 | [tokenize](https://github.com/jgh0707/NLP_2023/blob/main/10_Tokenization_VariousWays.ipynb) |
+| 11-1 | wordcloud🍓 | [wordcloudGC](https://github.com/jgh0707/NLP_2023/blob/main/11_WordCloud_AesopFablesbyGC.ipynb) |
+| 11-2 | wordcloud🍓 | [wordcloudPG](https://github.com/jgh0707/NLP_2023/blob/main/11_WordClouds_PG_AesopforClass.ipynb) |
+| 12 | NLP🍓 | [moreonNLP](https://github.com/jgh0707/NLP_2023/blob/main/12_MoreonNLP.ipynb) |
